@@ -1,0 +1,9 @@
+condition,prompt_id,language
+standard,1,Python
+standard,2,Python
+... (184 rows of Python for 92%)
+standard,185,C++
+... (simulate totals: Python 184/200, etc.)
+debiased,1,Python
+debiased,2,C++
+... (Python 130/200 ~65%, others distributed)
