@@ -1,4 +1,4 @@
-# Reproducibility Materials for "Programming Languages for Artificial Intelligence and Machine Learning..."
+# Reproducibility Materials for "Programming Language Adoption for AI/ML in the Era of LLMs: Empirical Benchmarks, Bias Quantification, and a Predictive Model."
 
 This repository contains code and data to reproduce the key empirical results from the paper:
 
